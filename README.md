@@ -1,2 +1,2 @@
 # Test-Js-JEst-TDD
-Testes feitos para studo do tdd
+Testes feitos para estudo do tdd - Test driven design
